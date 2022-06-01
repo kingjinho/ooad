@@ -1,0 +1,4 @@
+package intersection
+
+class Crosswalk {
+}
